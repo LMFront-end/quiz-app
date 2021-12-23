@@ -1,0 +1,65 @@
+[
+
+    {
+        "question": "¿De qué tipo eran las 3 medallas conseguidas por Usain Bolt en los Juegos Olimpicos de Londres 2012?",
+        "choice1": "Oro",
+        "choice2": "Plata",
+        "choice3": "Bronce",
+        "choice4": "Ninguna de las anteriores",
+        "answer": 1
+
+    },
+
+    {
+        "question": "¿Cual es la forma correcta de insertar un documento JS en un HTML?",
+        "choice1": "<script src=''></script>",
+        "choice2": "<javascript></script>",
+        "choice3": "<js></script>",
+        "choice4": "Ninguna de las anteriores",
+        "answer": 1
+
+    },
+
+    {
+        "question": "¿Quien pinto galatea de las esferas?",
+        "choice1": "Leonardo Davinci",
+        "choice2": "Salvador Dalí",
+        "choice3": "Miguel Angelo",
+        "choice4": "No es una pintura",
+        "answer": 2
+
+    },
+
+
+    {
+        "question": "¿Como se puede generar una alerta JS?",
+        "choice1": "msg('Hello world')",
+        "choice2": "alertt('Hello world')",
+        "choice3": "alertbox('Hello world')",
+        "choice4": "alert('Hello world')",
+        "answer": 4
+
+    },
+
+
+    {
+        "question": "¿Cuantos dedos tienen en la mano los personajes de Los Simpsons?",
+        "choice1": "4",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "5",
+        "answer": 1
+
+    },
+
+    {
+        "question": "¿Cual de los siguientes no es un lenguaje de programacion?",
+        "choice1": "Python",
+        "choice2": "Kotlin",
+        "choice3": "Bulma",
+        "choice4": "Go",
+        "answer": 3
+
+    }
+
+]
